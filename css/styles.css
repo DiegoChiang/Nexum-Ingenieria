@@ -909,6 +909,11 @@ textarea:focus {
   max-height: 60px;
 }
 
+.clients-rail .client-logo--xl {
+  height: clamp(46px, 7vw, 72px);
+  max-height: 72px;
+}
+
 /* =========================
    Featured case cards
 ========================= */
